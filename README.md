@@ -15,9 +15,12 @@ This project is suitable for beginners who want to contact the Flutter platform 
 ### 使用套件
 - url_launcher: ^6.1.2
 
-### eferences
-https://www.appcoda.com.tw/flutter-basics/
-
+### References
+<a href="https://www.appcoda.com.tw/flutter-basics/">Lawrence Tan</a>
+<br>
+<a href="https://flutter.dev/">Flutter</a>
+<br>
+<br>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
