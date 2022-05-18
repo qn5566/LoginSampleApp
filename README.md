@@ -1,6 +1,21 @@
-# flutter_app
+### Flutter登入介面範例製作
+### 前言
+此專案適合初學者想接觸Flutter平台做開發的朋友
+This project is suitable for beginners who want to contact the Flutter platform for development.
 
-第一隻Flutter APP
+### 作品展示
+![Flutter01](/data/001.gif) ![Flutter02](/data/002.gif)![Flutter03](/data/003.gif)
+
+### 特色
+- 登入功能
+- 搜尋功能
+- 聯絡人資料頁面
+- 第三方SDK工具示範
+
+### 使用套件
+- url_launcher: ^6.1.2
+
+
 
 ## Getting Started
 
